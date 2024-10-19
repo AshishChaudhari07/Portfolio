@@ -1,4 +1,5 @@
 import React from 'react'
+import CV from '../assets/CV.pdf'
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
@@ -41,7 +42,7 @@ function SocilaLink() {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '',
+            href: CV,
             style: 'rounded-br-md',
             download: true
         },
