@@ -13,7 +13,7 @@ function Portfolio() {
             id: 1,
             src: hospital,
             code: 'https://github.com/AshishChaudhari07/Medical-Scheduling-System', 
-            demo: '' 
+            demo: 'https://medical-scheduling-system-frontent-g55j.onrender.com/' 
         },
         {
             id: 2,
