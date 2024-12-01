@@ -25,25 +25,25 @@ function Portfolio() {
             id: 3,
             src: pokedex,
             code: 'https://github.com/AshishChaudhari07/POKEDEX',
-            demo: ''
+            demo: 'https://searchyourpokemons.netlify.app'
         },
         {
             id: 4,
             src: tictactoi,
             code: 'https://github.com/AshishChaudhari07/tic-tac-toi',
-            demo: ''
+            demo: 'https://tictactoigames.netlify.app/'
         },
         {
             id: 5,
             src: snack,
             code: 'https://github.com/AshishChaudhari07/Snack-Game',
-            demo: ''
+            demo: 'https://snackgameabc.netlify.app'
         },
         {
             id: 6,
             src: rps,
             code: 'https://github.com/AshishChaudhari07/Rock-Paper-Scissors',
-            demo: ''
+            demo: 'https://rpsgamesabc.netlify.app'
         },
     ]
 
