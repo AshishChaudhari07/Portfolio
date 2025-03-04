@@ -46,12 +46,12 @@ function Portfolio() {
             code: 'https://github.com/AshishChaudhari07/Snack-Game',
             demo: 'https://snackgameabc.netlify.app'
         },
-        {
-            id: 7,
-            src: rps,
-            code: 'https://github.com/AshishChaudhari07/Rock-Paper-Scissors',
-            demo: 'https://rpsgamesabc.netlify.app'
-        },
+        // {
+        //     id: 7,
+        //     src: rps,
+        //     code: 'https://github.com/AshishChaudhari07/Rock-Paper-Scissors',
+        //     demo: 'https://rpsgamesabc.netlify.app'
+        // },
     ]
 
     return (
