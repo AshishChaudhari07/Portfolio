@@ -5,6 +5,7 @@ import pokedex from '../assets/portfolio/pokedex.png'
 import tictactoi from '../assets/portfolio/tictactoi.png'
 import snack from '../assets/portfolio/snack.png'
 import rps from '../assets/portfolio/rps.png'
+import food_delivery from '../assets/portfolio/food_delivery.png'
 
 function Portfolio() {
 
@@ -17,30 +18,36 @@ function Portfolio() {
         },
         {
             id: 2,
+            src: food_delivery,
+            code: 'https://github.com/AshishChaudhari07/Food_Delivery',
+            demo: 'https://radiant-swan-a2fd51.netlify.app/'
+        },
+        {
+            id: 3,
             src: bookstore,
             code: 'https://github.com/AshishChaudhari07',
             demo: ''
         },
         {
-            id: 3,
+            id: 4,
             src: pokedex,
             code: 'https://github.com/AshishChaudhari07/POKEDEX',
             demo: 'https://searchyourpokemons.netlify.app'
         },
         {
-            id: 4,
+            id: 5,
             src: tictactoi,
             code: 'https://github.com/AshishChaudhari07/tic-tac-toi',
             demo: 'https://tictactoigames.netlify.app/'
         },
         {
-            id: 5,
+            id: 6,
             src: snack,
             code: 'https://github.com/AshishChaudhari07/Snack-Game',
             demo: 'https://snackgameabc.netlify.app'
         },
         {
-            id: 6,
+            id: 7,
             src: rps,
             code: 'https://github.com/AshishChaudhari07/Rock-Paper-Scissors',
             demo: 'https://rpsgamesabc.netlify.app'
