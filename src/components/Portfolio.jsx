@@ -4,7 +4,7 @@ import bookstore from '../assets/portfolio/bookstore.png'
 import pokedex from '../assets/portfolio/pokedex.png'
 import tictactoi from '../assets/portfolio/tictactoi.png'
 import snack from '../assets/portfolio/snack.png'
-import rps from '../assets/portfolio/rps.png'
+// import rps from '../assets/portfolio/rps.png'
 import food_delivery from '../assets/portfolio/food_delivery.png'
 
 function Portfolio() {
@@ -46,12 +46,12 @@ function Portfolio() {
             code: 'https://github.com/AshishChaudhari07/Snack-Game',
             demo: 'https://snackgameabc.netlify.app'
         },
-        {
-            id: 7,
-            src: rps,
-            code: 'https://github.com/AshishChaudhari07/Rock-Paper-Scissors',
-            demo: 'https://rpsgamesabc.netlify.app'
-        },
+        // {
+        //     id: 7,
+        //     src: rps,
+        //     code: 'https://github.com/AshishChaudhari07/Rock-Paper-Scissors',
+        //     demo: 'https://rpsgamesabc.netlify.app'
+        // },
     ]
 
     return (
